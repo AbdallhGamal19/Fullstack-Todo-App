@@ -30,11 +30,12 @@ A simple and intuitive Todo List web application built with React.js and powered
 3. Run both the frontend (React) and backend (Strapi) locally.
 4. Enjoy a fully functional Todo List app!
 
-![Screenshot 2024-11-12 013007](https://github.com/user-attachments/assets/c1fae1da-e6a8-4ad8-a140-f84114f359b8)
-![Screenshot 2024-11-12 012946](https://github.com/user-attachments/assets/fe69e972-9023-4bb7-af9c-de02a7239476)
-![Screenshot 2024-11-12 012931](https://github.com/user-attachments/asset![Screenshot 2024-11-12 013022](https://github.com/user-attachments/assets/d7988948-c626-42af-b8d0-9834561a4092)s/4d551b7f-bd0e-4164-9753-ff472e6988ed)
-![Screenshot 2024-11-12 012901](https://github.com/user-attachments/assets/7c49d38d-6b98-4747-9104-7100a9fd9215)
+![Screenshot 2024-11-12 012717](https://github.com/user-attachments/assets/825c3538-d4a7-4ba0-8ee5-57ccecb0919e)
+![Screenshot 2024-11-12 012821](https://github.com/user-attachments/assets/92fc3023-70ce-4fb0-ba2e-83a30e7b3743)
+![Screenshot 2024-11-12 012901](https://github.com/user-attachments/assets/69344dc8-edce-45a6-967f-2c862b58d297)
+![Screenshot 2024-11-12 012931](https://github.com/user-attachments/assets/2427986a-c45d-49f6-a5d0-e3283d1ca589)
+![Screenshot 2024-11-12 012946](https://github.com/user-attachments/assets/bee7c474-4391-435d-acb7-19b8bd1cdefd)
+![Screenshot 2024-11-12 013007](https://github.com/user-attachments/assets/a73a41bc-067c-428e-9780-7d57ff3d5879)
+![Screenshot 2024-11-12 013022](https://github.com/user-attachments/assets/a1dbec29-eeeb-45ca-8408-e2900b3f24b6)
 
-![Screenshot 2024-11-12 012821](https://github.com/user-attachments/assets/8e7b77df-36cc-44a2-a52b-4cda93102b66)
-![Screenshot 2024-11-12 012717](https://github.com/user-attachments/assets/c8c361e4-a635-4855-9114-7a603ff69f2e)
 
